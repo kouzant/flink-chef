@@ -1,4 +1,4 @@
-include_recipe "java"
+# i
 
 group node['hops']['group'] do
   gid node['hops']['group_id']
